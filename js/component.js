@@ -13,7 +13,6 @@ class Component {
 
 class F8 {
   static nodes = [];
-  static node2 = [];
   static state = {};
   static shadow = null;
   //Kiểm tra object
